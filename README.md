@@ -10,3 +10,4 @@ https://www.kaggle.com/c/titanic
 ## Theme of our project
 To perfrom Exploratory data analysis and to make the data ready for prediction
 ## Articles describing our EDA
+https://poojithakodali5.medium.com/exploratory-data-analysis-511cc5b6a5d8
